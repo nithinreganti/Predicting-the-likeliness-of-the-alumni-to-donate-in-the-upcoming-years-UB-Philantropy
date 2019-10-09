@@ -1,2 +1,2 @@
 # Predicting-the-likeliness-of-the-alumni-to-donate-in-the-upcoming-years-UB-Philantropy
-A decision tree classifier is built using the scikit-learn library to categorize the alumni into five different categories- Donor, Non-Donor, Lapsed-Donor, Acquired Donor and Loyal Donor for the year 2018 which has a model accuracy of 99.6% . Probabilistic approach is taken by using Monte Carlo -Markov chains to predict the probability of donation in the future years to come using the historical data from 2008-2018
+Categorizing the alumni into five different categories- Donor, Non-Donor, Lapsed-Donor, Acquired Donor and Loyal Donor.
